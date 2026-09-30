@@ -40,6 +40,7 @@ media/
 .env.local
 .env.*.local
 !.env.example
+staticfiles/
 
 # IDEs and Editors
 .vscode/
